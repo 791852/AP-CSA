@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=StudentList
+comment1.params=
+comment1.target=StudentList()
+comment10.params=
+comment10.target=int\ printStudent()
+comment2.params=
+comment2.target=int\ menuNumber()
+comment3.params=
+comment3.target=void\ addStudenttoList()
+comment4.params=
+comment4.target=void\ printStudentList()
+comment5.params=
+comment5.target=int\ addStudent()
+comment6.params=
+comment6.target=int\ deleteStudent()
+comment7.params=
+comment7.target=int\ editStudentList()
+comment8.params=
+comment8.target=int\ clearList()
+comment9.params=
+comment9.target=int\ printList()
+numComments=11
